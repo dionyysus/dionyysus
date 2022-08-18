@@ -1,10 +1,10 @@
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="auto">
 
-### Welcome 👋🏼
+### Welcome! 👋🏼
 
 ### About Me
 
--
+- 🌱 I’m currently learning Swift Language
 
 <!--
 **dionyysus/dionyysus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
