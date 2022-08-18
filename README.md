@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B65C2?style=flat-quare&labelColor=0B65C2&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
 
 (https://github-readme-stats.vercel.app/api/top-langs/?username=dionyysus&theme=dark)](https://github.com/dionyysus/github-readme-stats)
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=dionyysus&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionyysus&theme=dark)](https://github.com/dionyysus/github-readme-stats)
 
 
 
