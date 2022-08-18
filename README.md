@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/thedvlprl/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B65C2?style=flat-quare&labelColor=0B65C2&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
 
+# Languages and Tools:
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dionyysus&show_icons=true&theme=radical)
 
