@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B65C2?style=flat-quare&labelColor=0B65C2&logo=Linkedin&logoColor=white&link=link)](link)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B65C2?style=flat-quare&labelColor=0B65C2&logo=Linkedin&logoColor=white&link=link)]([link](https://www.linkedin.com/in/gizem-coşkun-526376197/))
