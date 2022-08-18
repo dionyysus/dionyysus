@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 # Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 ![Git](https://img.shields.io/badge/-Git-0D1117?&logo=git&style=for-the-badge&labelColor=0D1117)&nbsp;
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dionyysus&show_icons=true&theme=radical)
 
 
