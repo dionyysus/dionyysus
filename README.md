@@ -1,6 +1,7 @@
+### Hi I'm Gizem! 👋🏼
+
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="auto">
 
-### Welcome! 👋🏼
 
 ### About Me
 
