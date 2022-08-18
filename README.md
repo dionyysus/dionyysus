@@ -1,11 +1,15 @@
 # Hi I'm Gizem! 👋🏼👩🏻‍💻
+<div
+  align="center"
+  style="margin: 3em;"
+>
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="auto">
+</div>
 
-
-### About Me
-
-- 🔭 I’m currently working on ...
+# About Me
+- 👩🏻‍💻 I'm an information systems engineering student
 - 🌱 I’m currently learning Swift Language
+- 🔭 Web Development intern at The Walking Parrot
 
 <!--
 **dionyysus/dionyysus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
