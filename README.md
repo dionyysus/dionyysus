@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   />
 </a>&nbsp;
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkudogrusoz&theme=dark)](https://github.com/utkudogrusoz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionyysus&theme=dark)](https://github.com/dionyysus/github-readme-stats)
 #
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dionyysus&show_icons=true&theme=radical)
 
