@@ -8,7 +8,7 @@
 
 # About Me
 - 🌱 I’m currently learning Swift Language
-- 💻 Web Development intern at The Walking Parrot
+- 💻 Eramus intern at Czestochowa University Of Technology
 
 <!--
 **dionyysus/dionyysus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
