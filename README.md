@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Swift Language
 - 💻 Eramus intern at Czestochowa University Of Technology
 - 📚 Information Systems Engineering at Kocaeli University
+- 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
 <!--
 **dionyysus/dionyysus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
