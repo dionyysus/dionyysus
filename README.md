@@ -8,8 +8,7 @@
 
 # About Me
 - 🌱 I’m currently learning Swift Language
-- 💻 Eramus intern at Czestochowa University Of Technology
-- 📚 Information Systems Engineering at Kocaeli University
+- 📚 Information Systems Engineering at Kocaeli University 4/4
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
 <!--
