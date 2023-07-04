@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B65C2?style=flat-quare&labelColor=0B65C2&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0B65C2?style=flat-quare&labelColor=0B65C2&logo=Instagram&logoColor=white&link=link)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
+
 
 #
 
