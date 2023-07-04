@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B65C2?style=flat-quare&labelColor=0B65C2&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
 ![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
