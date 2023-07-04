@@ -7,7 +7,7 @@
 </div>
 
 # About Me
-- 🌱 I’m currently learning Swift Language
+- 🌱 I’m currently learning Swift
 - 📚 Information Systems Engineering at Kocaeli University 4/4
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionyysus&theme=dark)](https://github.com/dionyysus/github-readme-stats)
+
 <p> 
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=dionyysus&theme=blueberry_duo">
 </p>
