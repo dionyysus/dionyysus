@@ -8,7 +8,7 @@
 
 ## About me
 - 🌱 I’m currently learning Swift
-- 📚 Information Systems Engineering at Kocaeli University 4/4
+- 📚 Information Systems Engineering at Kocaeli University
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
 <!--
