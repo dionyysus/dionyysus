@@ -2,23 +2,13 @@
     <h2 align=left>  Hi I'm Gizem! 👋🏼👩🏻‍💻 </h2>
 </div>
 <div
-  align="left"
+  align="float"
   style="margin: 3em;"
 >
-
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="350">
 🌱 I’m currently learning Swift
 📚 Information Systems Engineering at Kocaeli University
 💻 iOS Developer intern at IBTECH - QNB Finansbank
-<div
-  align="rigth"
-  style="margin: 3em;"
->
-
-🌱 I’m currently learning Swift
-📚 Information Systems Engineering at Kocaeli University
-💻 iOS Developer intern at IBTECH - QNB Finansbank
-
 
 </div>
 <div>
