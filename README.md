@@ -23,7 +23,6 @@
 <div>
     <h2 align=center> My Movie Application </h2>
 </div>
-##
 
 <div>
   <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="auto">
