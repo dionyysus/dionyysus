@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: float;">
     <div style="flex: 1;">
         <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
     </div>
