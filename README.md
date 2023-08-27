@@ -9,7 +9,7 @@
 </div>
 
 <div
-  align="right"
+  align="float"
   style="margin: 3em;"
 >
 
