@@ -23,6 +23,7 @@
 <div
   align="center"
   style="margin: 3em;"
+  font-size = 50
 >
 
 My Movie Application
