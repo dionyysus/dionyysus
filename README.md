@@ -12,7 +12,7 @@
 
 </div>
 <div>
-    <h2 align=center> My Movie Application </h2>
+    <h2 align=left> My Movie Application </h2>
 </div>
 
 <div>
@@ -21,7 +21,7 @@
 
 
 <div>
-    <h2 align=center> Connect With Me </h2>
+    <h2 align=left> Connect With Me </h2>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
@@ -29,7 +29,7 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t0s28lmbl61mgfd4iey6j4rq9?si=5a81e84558e24c12)
 
 <div>
-    <h2 align=center> Buy Me a Coffee </h2>
+    <h2 align=left> Buy Me a Coffee </h2>
 </div>
 <a href="https://bmc.link/thedvlprl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px
  2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
