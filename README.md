@@ -1,32 +1,11 @@
 # Hi I'm Gizem! 👋🏼👩🏻‍💻
 
-<div style="display: flex; align-items: float;">
-    <div style="flex: 1;">
-        <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-    </div>
-    <div style="flex: 3; align-items: float;">
-        <h1>My GitHub Profile</h1>
-        <p>
-            🌱 I’m currently learning Swift<br>
-            📚 Information Systems Engineering at Kocaeli University<br>
-            💻 iOS Developer intern at IBTECH - QNB Finansbank
-        </p>
-    </div>
-</div>
-
-
-
 <div
   align="left"
   style="margin: 3em;"
 >
 
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="350">
-
-</div>
-
-##
-
 <div
   align="rigth"
   style="margin: 3em;"
@@ -39,17 +18,12 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-</p>
+</div>
 
-<h1 align="center">My GitHub Profile</h1>
+##
 
-<p align="center">
-  🌱 I’m currently learning Swift<br>
-  📚 Information Systems Engineering at Kocaeli University<br>
-  💻 iOS Developer intern at IBTECH - QNB Finansbank
-</p>
+
+
 
 
 <div align="center" style="margin: 3em; font-weight: strong; font-size: 30px;">
