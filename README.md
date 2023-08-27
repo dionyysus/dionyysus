@@ -6,7 +6,7 @@
 
 
 <div>
-    <h2 align=center> My Movie Application </h2>
+    <h2 align=float> My Movie Application </h2>
 </div>
 
 <div>
