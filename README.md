@@ -18,6 +18,19 @@
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
 </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="flex: 1;">
+        <p>
+            🌱 I’m currently learning Swift<br>
+            📚 Information Systems Engineering at Kocaeli University<br>
+            💻 iOS Developer intern at IBTECH - QNB Finansbank
+        </p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
+    </div>
+</div>
+
 
 <div>
   <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="auto">
