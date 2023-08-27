@@ -20,15 +20,9 @@
 
 
 </div>
-<div
-  align="center"
-  style="margin: 3em;"
-  font-size = 50
->
-
-<strong> My Movie Application </strong>
+<div>
+    <h2 align=center> My Movie Application </h2>
 </div>
-
 ##
 
 <div>
