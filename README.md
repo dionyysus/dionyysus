@@ -22,6 +22,18 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
+</p>
+
+<h1 align="center">My GitHub Profile</h1>
+
+<p align="center">
+  🌱 I’m currently learning Swift<br>
+  📚 Information Systems Engineering at Kocaeli University<br>
+  💻 iOS Developer intern at IBTECH - QNB Finansbank
+</p>
+
 
 <div align="center" style="margin: 3em; font-weight: strong; font-size: 30px;">
 
