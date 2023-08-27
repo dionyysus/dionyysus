@@ -1,17 +1,26 @@
 # Hi I'm Gizem! 👋🏼👩🏻‍💻
 <div
-  align="float"
+  align="left"
   style="margin: 3em;"
 >
 
-<img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="300">
+<img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="350">
 
 </div>
 
 ##
+
+<div
+  align="rigth"
+  style="margin: 3em;"
+>
+
 🌱 I’m currently learning Swift
 📚 Information Systems Engineering at Kocaeli University
 💻 iOS Developer intern at IBTECH - QNB Finansbank
+
+
+</div>
 
 
 <div align="center" style="margin: 3em; font-weight: strong; font-size: 30px;">
