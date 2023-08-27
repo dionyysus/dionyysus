@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Swift<br>
 📚 Information Systems Engineering at Kocaeli University<br>
-💻 iOS Developer intern at IBTECH - QNB Finansbank
+💻 iOS Developer intern at IBTECH - QNB Finansbank<br>
 
 
 <div>
