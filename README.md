@@ -6,7 +6,7 @@
 
 
 <div>
-    <h2 align=left> My Movie Application </h2>
+    <h2 align=center> My Movie Application </h2>
 </div>
 
 <div>
@@ -33,4 +33,5 @@
 </p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dionyysus&show_icons=true&theme=radical)
+
 
