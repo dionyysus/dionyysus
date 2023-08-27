@@ -13,6 +13,7 @@
 📚 Information Systems Engineering at Kocaeli University
 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
+##
 <div
   align="center"
   style="margin: 10em;"
