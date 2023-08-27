@@ -13,21 +13,31 @@
   style="margin: 3em;"
 >
 
-- 🌱 I’m currently learning Swift
-- 📚 Information Systems Engineering at Kocaeli University
-- 💻 iOS Developer intern at IBTECH - QNB Finansbank
+<style>
+    .container {
+        display: flex;
+    }
 
-</div>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="flex: 1;">
-        <p>
-            🌱 I’m currently learning Swift<br>
-            📚 Information Systems Engineering at Kocaeli University<br>
-            💻 iOS Developer intern at IBTECH - QNB Finansbank
-        </p>
+    .left {
+        flex: 1;
+    }
+
+    .right {
+        flex: 1;
+        text-align: right;
+    }
+</style>
+
+<div class="container">
+    <div class="left">
+        🌱 I’m currently learning Swift
+📚 Information Systems Engineering at Kocaeli University
+💻 iOS Developer intern at IBTECH - QNB Finansbank
+
+
     </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
+    <div class="right">
+         <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="auto">
     </div>
 </div>
 
