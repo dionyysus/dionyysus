@@ -6,6 +6,9 @@
 >
 
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="350">
+🌱 I’m currently learning Swift
+📚 Information Systems Engineering at Kocaeli University
+💻 iOS Developer intern at IBTECH - QNB Finansbank
 <div
   align="rigth"
   style="margin: 3em;"
