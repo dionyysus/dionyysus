@@ -4,7 +4,7 @@
 📚 Information Systems Engineering at Kocaeli University<br>
 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
-
+<div></div>
 <div>
     <h2 align=left> My Movie Application </h2>
 </div>
