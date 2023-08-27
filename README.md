@@ -1,4 +1,21 @@
 # Hi I'm Gizem! 👋🏼👩🏻‍💻
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
+    </div>
+    <div style="flex: 3;">
+        <h1>My GitHub Profile</h1>
+        <p>
+            🌱 I’m currently learning Swift<br>
+            📚 Information Systems Engineering at Kocaeli University<br>
+            💻 iOS Developer intern at IBTECH - QNB Finansbank
+        </p>
+    </div>
+</div>
+
+
+
 <div
   align="left"
   style="margin: 3em;"
