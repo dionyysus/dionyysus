@@ -1,26 +1,9 @@
+## Hi I'm Gizem 👩🏻‍💻☁️: <a><img align="left" width="150" height="150" src="https://media.giphy.com/media/FIPkuEil9huVxS6qwQ/giphy.gif?raw=true"></a>
 
+🌱 I’m currently learning Swift<br>
+📚 Information Systems Engineering at Kocaeli University<br>
+💻 iOS Developer intern at IBTECH - QNB Finansbank
 
-<div class="container">
-    <div class="left">
-        <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-    </div>
-    <div class="right">
-        <h1>My GitHub Profile</h1>
-        <p>
-            🌱 I’m currently learning Swift<br>
-            📚 Information Systems Engineering at Kocaeli University<br>
-            💻 iOS Developer intern at IBTECH - QNB Finansbank
-        </p>
-    </div>
-</
-div>
-
-<p float="left">
- <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-  🌱 I’m currently learning Swift<br>
-            📚 Information Systems Engineering at Kocaeli University<br>
-            💻 iOS Developer intern at IBTECH - QNB Finansbank
-</p>
 
 <div>
     <h2 align=left> My Movie Application </h2>
