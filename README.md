@@ -15,9 +15,9 @@
 
 <div
   align="center"
-  style="margin: 3em;"
+  style="margin: 10em;"
 >
-## My Movie Application 
+My Movie Application 
 <div>
   <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="auto">
 </div>
