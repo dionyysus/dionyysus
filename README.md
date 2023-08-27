@@ -5,41 +5,12 @@
 >
 
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-
-</div>
-
-<div
-  align="right"
-  style="margin: 3em;"
->
-
-<style>
-    .container {
-        display: flex;
-    }
-
-    .left {
-        flex: 1;
-    }
-
-    .right {
-        flex: 1;
-        text-align: right;
-    }
-</style>
-
-<div class="container">
-    <div class="left">
-        🌱 I’m currently learning Swift
+      🌱 I’m currently learning Swift
 📚 Information Systems Engineering at Kocaeli University
 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
-
-    </div>
-    <div class="right">
-         <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="auto">
-    </div>
 </div>
+
 
 
 <div>
@@ -47,21 +18,6 @@
 </div>
 
 
-
-<!--
-**dionyysus/dionyysus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
