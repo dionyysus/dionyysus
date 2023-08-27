@@ -8,6 +8,9 @@
 - 📚 Information Systems Engineering at Kocaeli University
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
+| Cat pics                            | Dog pics                            |
+| ----------------------------------- | ----------------------------------- |
+| ![cat]([https://example.com/cat.png](https://github.com/dionyysus/dionyysus/blob/main/developer.gif)) ||
 
 </div>
 
