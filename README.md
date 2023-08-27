@@ -3,11 +3,11 @@
   align="center"
   style="margin: 3em;"
 >
-<img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-  ## About me
+  
 - 🌱 I’m currently learning Swift
 - 📚 Information Systems Engineering at Kocaeli University
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
+<img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
 
 </div>
 
