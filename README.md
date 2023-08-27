@@ -26,7 +26,7 @@
   font-size = 50
 >
 
-My Movie Application
+<strong> My Movie Application </strong>
 </div>
 
 ##
