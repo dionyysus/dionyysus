@@ -5,13 +5,13 @@
 >
 
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-      🌱 I’m currently learning Swift
-📚 Information Systems Engineering at Kocaeli University
-💻 iOS Developer intern at IBTECH - QNB Finansbank
 
 </div>
 
-
+## About me 
+🌱 I’m currently learning Swift
+📚 Information Systems Engineering at Kocaeli University
+💻 iOS Developer intern at IBTECH - QNB Finansbank
 
 <div>
   <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="auto">
