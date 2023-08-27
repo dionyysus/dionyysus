@@ -20,6 +20,10 @@
 
 
 </div>
+<div
+  align="center"
+  style="margin: 3em;"
+>
 
 My Movie Application
 </div>
