@@ -11,6 +11,8 @@
 - 📚 Information Systems Engineering at Kocaeli University
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
 
+<img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="200">
+
 <!--
 **dionyysus/dionyysus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
