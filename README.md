@@ -1,8 +1,23 @@
-<div style="display: flex; align-items: float;">
-    <div style="flex: 1;">
+<style>
+    .container {
+        display: flex;
+    }
+
+    .left {
+        flex: 1;
+    }
+
+    .right {
+        flex: 1;
+        text-align: right;
+    }
+</style>
+
+<div class="container">
+    <div class="left">
         <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
     </div>
-    <div style="flex: 3;">
+    <div class="right">
         <h1>My GitHub Profile</h1>
         <p>
             🌱 I’m currently learning Swift<br>
