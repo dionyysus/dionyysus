@@ -21,16 +21,6 @@
 
 </div>
 
-</div>
-
-##
-
-
-
-
-
-<div align="center" style="margin: 3em; font-weight: strong; font-size: 30px;">
-
 My Movie Application
 </div>
 
