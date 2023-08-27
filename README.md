@@ -3,7 +3,7 @@
 </div>
 <div
   align="float"
-  style="margin: 3em;"
+  style="margin: 100em;"
 >
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="350">
 🌱 I’m currently learning Swift
