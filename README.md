@@ -1,17 +1,4 @@
-<style>
-    .container {
-        display: flex;
-    }
 
-    .left {
-        flex: 1;
-    }
-
-    .right {
-        flex: 1;
-        text-align: right;
-    }
-</style>
 
 <div class="container">
     <div class="left">
