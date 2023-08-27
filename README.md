@@ -4,7 +4,7 @@
   style="margin: 3em;"
 >
 
-<img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
+<img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="300">
 
 </div>
 
