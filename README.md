@@ -1,20 +1,10 @@
 # Hi I'm Gizem! 👋🏼👩🏻‍💻
 <div
-  align="center"
+  align="float"
   style="margin: 3em;"
 >
-  <p float="left">
-  <img src="[/img1.png](https://github.com/dionyysus/dionyysus/blob/main/developer.gif)" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
-- 🌱 I’m currently learning Swift
-- 📚 Information Systems Engineering at Kocaeli University
-- 💻 iOS Developer intern at IBTECH - QNB Finansbank
+
 <img src="https://github.com/dionyysus/dionyysus/blob/main/developer.gif" width="200">
-| Cat pics                            | Dog pics                            |
-| ----------------------------------- | ----------------------------------- |
-| ![cat]([https://example.com/cat.png](https://github.com/dionyysus/dionyysus/blob/main/developer.gif)) ||
 
 </div>
 
