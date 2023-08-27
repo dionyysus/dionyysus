@@ -3,7 +3,11 @@
   align="center"
   style="margin: 3em;"
 >
-  
+  <p float="left">
+  <img src="[/img1.png](https://github.com/dionyysus/dionyysus/blob/main/developer.gif)" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 - 🌱 I’m currently learning Swift
 - 📚 Information Systems Engineering at Kocaeli University
 - 💻 iOS Developer intern at IBTECH - QNB Finansbank
