@@ -1,5 +1,6 @@
-# Hi I'm Gizem! 👋🏼👩🏻‍💻
-
+<div>
+    <h2 align=center>  Hi I'm Gizem! 👋🏼👩🏻‍💻 </h2>
+</div>
 <div
   align="left"
   style="margin: 3em;"
