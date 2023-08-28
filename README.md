@@ -1,4 +1,4 @@
-## Hi I'm Gizem 👩🏻‍💻☁️: <a><img align="left" width="150" height="150" src="https://media.giphy.com/media/FIPkuEil9huVxS6qwQ/giphy.gif?raw=true"></a>
+## Hi I'm Gizem 👩🏻‍💻 <a><img align="left" width="150" height="150" src="https://media.giphy.com/media/FIPkuEil9huVxS6qwQ/giphy.gif?raw=true"></a>
 
 🌱 I’m currently learning Swift<br>
 📚 Information Systems Engineering at Kocaeli University<br>
@@ -10,7 +10,8 @@
 </div>
 
 <div>
-  <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c" width="auto">
+  <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c"
+ width="auto">
 </div>
 
 
