@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <img src="https://github.com/dionyysus/ble-example/assets/59100182/138082e3-5a78-4a88-978e-676ea362202c"
+  <img src="https://github.com/dionyysus/SwiftJourney/assets/59100182/f8c10b64-e38a-4cfd-8090-af71b5b93036"
  width="auto">
 </div>
 
