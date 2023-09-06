@@ -34,6 +34,6 @@
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=dionyysus&theme=blueberry_duo">
 </p>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=dionyysus&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionyysus&theme=radical)
 
 
