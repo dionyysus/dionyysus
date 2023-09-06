@@ -28,12 +28,20 @@
 </div>
 <a href="https://bmc.link/thedvlprl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px
  2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
- 
- ##
-<p> 
-<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=dionyysus&theme=blueberry_duo">
-</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionyysus&theme=radical)
+<div>
+    <h2 align=left> Github Stats</h2>
+</div>
 
-
+<table>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=dionyysus&theme=blueberry_duo">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <img src="https://github-readme-stats.vercel.app/api?username=dionyysus&theme=radical&hide_border=true&theme=tokyonight">
+        </a>
+        </td>
+    </tr>
+</table>
