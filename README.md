@@ -26,17 +26,19 @@
 <div>
     <h2 align=left> Buy Me a Coffee </h2>
 </div>
-<a href="https://bmc.link/thedvlprl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px
+<a href="https://bmc.link/thedvlprl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important
+;-webkit-box-shadow: 0px 3px
  2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <div>
     <h2 align=left> Github Stats</h2>
 </div>
-
 <table>
     <tr>
         <td colspan="2" rowspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=dionyysus&theme=blueberry_duo">
+            <a href = "https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=dionyysus&theme=blueberry_duo">
+            </a>
         </a>
         </td>
         <td colspan="2" rowspan="2">
