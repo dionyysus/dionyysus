@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <img src="https://github.com/dionyysus/RickAndMorty/assets/59100182/359ad19a-387f-4084-99da-301d30bd7636"
+  <img src="https://github.com/dionyysus/RickAndMorty/assets/59100182/2e0cf149-07eb-4797-a84c-23754fd55042"
  width="auto">
 </div>
 
