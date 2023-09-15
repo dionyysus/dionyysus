@@ -6,11 +6,11 @@
 
 <br>
 <div>
-    <h2 align=float> My Movie Application </h2>
+    <h2 align=float> My Cutie Apps </h2>
 </div>
 
 <div>
-  <img src="https://github.com/dionyysus/SwiftJourney/assets/59100182/f8c10b64-e38a-4cfd-8090-af71b5b93036"
+  <img src="https://github.com/dionyysus/RickAndMorty/assets/59100182/359ad19a-387f-4084-99da-301d30bd7636"
  width="auto">
 </div>
 
