@@ -1,4 +1,4 @@
-## Hi I'm Gizem 👩🏻‍💻 <a><img align="left" width="150" height="150" src="https://media.giphy.com/media/FIPkuEil9huVxS6qwQ/giphy.gif?raw=true"></a>
+## Hi I'm Gizem 👩🏻‍💻 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://media.giphy.com/media/FIPkuEil9huVxS6qwQ/giphy.gif?raw=true"></a>
 
 🌱 I’m currently learning Swift<br>
 📚 Information Systems Engineering at Kocaeli University<br>
