@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <img src="https://github.com/dionyysus/dionyysus/assets/59100182/d1923f11-7e04-49bb-9537-a8247f3b668f"
+  <img src="https://github.com/dionyysus/dionyysus/assets/59100182/5ffa0271-d429-4e1f-8b44-03ed6b14ffa3"
  width="auto">
 </div>
 
