@@ -6,7 +6,7 @@
 
 <br>
 <div>
-    <h2 align=float> My Cutie Apps </h2>
+    <h2 align=float> My Apps </h2>
 </div>
 
 <div>
