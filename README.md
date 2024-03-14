@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning Swift<br>
 👩🏻‍🎓 Information Systems Engineering at Kocaeli University<br>
+<br>
 
 <br>
 <div>
