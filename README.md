@@ -36,7 +36,7 @@
     <tr>
         <td colspan="2" rowspan="2">
             <a href = "https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=dionyysus&theme=blueberry_duo">
+        <img src="https://streak-stats.demolab.com/?user=dionyysus&theme=cobalt(https://git.io/streak-stats)">
             </a>
         </a>
         </td>
