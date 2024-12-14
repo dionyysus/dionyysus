@@ -2,7 +2,7 @@
 
 🌞 I’m currently a student at Apple Developer Academy in Italy <br>
 👩🏻‍🎓 Graduated in Information Systems Engineering from Kocaeli University, Turkey <br>
-🌱 Learning SwiftUI <br>
+🌱 Learning Everything <br>
 
 
 <br>
