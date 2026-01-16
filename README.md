@@ -36,9 +36,5 @@
             </a>
         </a>
         </td>
-        <td colspan="2" rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api?username=dionyysus&theme=github_dark&show_icons=true">
-        </a>
-        </td>
     </tr>
 </table>
