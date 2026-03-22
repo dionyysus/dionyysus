@@ -1,6 +1,6 @@
 ## Hi I'm Gizem 👩🏻‍💻 <a href="https://github.com/sponsors/M0nica"><img align="left" style="margin-right: 20px;" width="150" height="150" src="https://media.giphy.com/media/FIPkuEil9huVxS6qwQ/giphy.gif?raw=true"></a>
 
-🌞 I’m currently a student at Apple Developer Academy in Italy <br>
+🌞 I’m an ARTE student at Apple Developer Academy in Italy <br>
 👩🏻‍🎓 Graduated in Information Systems Engineering from Kocaeli University, Turkey <br>
 🌱 Learning Everything <br>
 
