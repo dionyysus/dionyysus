@@ -15,16 +15,6 @@
  width="auto">
 </div>
 
-
-<div>
-    <h2 align=left> Connect With Me </h2>
-</div>
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-coşkun-526376197/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thedvlprl/?hl=en)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t0s28lmbl61mgfd4iey6j4rq9?si=5a81e84558e24c12)
-
-
 <div>
     <h2 align=left> Github Stats</h2>
 </div>
