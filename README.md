@@ -4,7 +4,7 @@ I'm Gizem, an indie iOS developer and content creator based in Naples, Italy.
 
 Currently I work on my own projects. Before that I graduated from the Apple Developer Academy in Naples, where I focused on iOS development and spatial computing.
 
-Outside of work, I make tech content about the process ([@thedvlprl](https://instagram.com/thedvlprl) on Instagram and TikTok) and document the behind the scenes of my life here.
+Outside of work, I make tech content about the process [@thedvlprl](https://instagram.com/thedvlprl on Instagram and document the behind the scenes of my life here.
 
 **Let's connect!**
 
