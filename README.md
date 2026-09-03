@@ -1,30 +1,13 @@
-## Hi I'm Gizem
+# Hi there!
 
-🌞 I’m an ARTE student at Apple Developer Academy in Italy <br>
-👩🏻‍🎓 Bachelor’s Degree in Information Systems Engineering <br>
-🌱 Learning Everything <br>
+I'm Gizem, an iOS developer and content creator based in Naples, Italy.
 
+I work for myself. Before that I graduated from the [Apple Developer Academy](https://developeracademy.unina.it/) in Naples, where I focused on spatial computing and visionOS.
 
-<br>
-<div>
-    <h2 align=float> My Apps </h2>
-</div>
+I care less about what software does than how it feels to use. Most things I make start from a feeling I want to exist somewhere.
 
-<div>
-  <img src="https://github.com/dionyysus/dionyysus/assets/59100182/1f64ff8c-4324-4602-9d2e-159c9f6cbd79"
- width="auto">
-</div>
+Outside of work, I make tech content about the process ([@thedvlprl](https://instagram.com/thedvlprl) on Instagram and TikTok) and document the behind the scenes of my life here.
 
-<div>
-    <h2 align=left> Github Stats</h2>
-</div>
-<table>
-    <tr>
-        <td colspan="2" rowspan="2">
-            <a href = "https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=dionyysus&theme=cobalt">
-            </a>
-        </a>
-        </td>
-    </tr>
-</table>
+**Let's connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizemcoskunnn/)
