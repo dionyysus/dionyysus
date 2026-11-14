@@ -2,7 +2,7 @@
 
 I'm Gizem, an iOS developer and content creator based in Naples, Italy.
 
-Currently I build my own app ideas. Before that I graduated from the [Apple Developer Academy](https://developeracademy.unina.it/) in Naples, where I focused on iOS development and spatial computing.
+Currently I build my own apps. Before that I graduated from the [Apple Developer Academy](https://developeracademy.unina.it/) in Naples, where I focused on iOS development and spatial computing.
 
 Outside of work, I make tech content and document the behind the scenes of my life here.
 
