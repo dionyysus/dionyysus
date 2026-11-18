@@ -1,6 +1,6 @@
 ### Hi there! ✿
 
-I'm Gizem, an engineer and content creator based in Naples, Italy.
+I'm Gizem, an engineer and creative technologist based in Naples, Italy.
 
 Currently I build my own apps. Before that I graduated from the [Apple Developer Academy](https://developeracademy.unina.it/) in Naples, where I focused on iOS development and spatial computing.
 
